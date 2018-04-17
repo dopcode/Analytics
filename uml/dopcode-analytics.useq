@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.1" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="org.dopcode.analytics.Analytics" project="dopcode-analytics" 
+    file="/dopcode-analytics/src/main/java/org/dopcode/analytics/Analytics.java" binary="false" label="analyzer" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="187" y="0"/>  
+  </object>  
+  <object id="2" language="java" name="org.dopcode.analytics.Collector" project="dopcode-analytics" 
+    file="/dopcode-analytics/src/main/java/org/dopcode/analytics/Collector.java" binary="false" label="collector" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="394" y="0"/>  
+  </object>  
+  <object id="3" language="java" name="org.dopcode.analytics.Indexer" project="dopcode-analytics" 
+    file="/dopcode-analytics/src/main/java/org/dopcode/analytics/Indexer.java" binary="false" label="indexer" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="389" y="0"/>  
+  </object>
+</sequence-diagram>
